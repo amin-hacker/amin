@@ -213,6 +213,7 @@ function create_config( )
     "info",
     "pluginns",
     "inrealm",
+    "webshot",
     "ingroup",
     "inpm",
     "banhammer",
@@ -252,7 +253,7 @@ function create_config( )
     "left",
     "support",
     },
-    sudo_users = {144152859},--Sudo users
+    sudo_users = {133421952},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
